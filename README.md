@@ -235,3 +235,9 @@ Open a Pull Request
 
 📝 License
 This project is licensed under the MIT License. See LICENSE for details.
+## 📸 Screenshot
+
+Here is a screenshot showing the main page layout of the project:
+
+![Main Page Screenshot](./1.png)
+
