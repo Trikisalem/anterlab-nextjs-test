@@ -257,6 +257,11 @@ Here is a screenshot showing the main page layout of the project:
 
 Here is a screenshot showing the main page layout of the project:
 
+## 📸 Screenshot
+
+Here is a screenshot showing the main page layout of the project:
+
 ![Main Page Screenshot](https://raw.githubusercontent.com/Trikisalem/anterlab-nextjs-test/main/1.png)
+
 
 
