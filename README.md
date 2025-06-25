@@ -239,5 +239,14 @@ This project is licensed under the MIT License. See LICENSE for details.
 
 Here is a screenshot showing the main page layout of the project:
 
-![Main Page Screenshot](./1.png)
+## 📸 Screenshot
+
+Here is a screenshot showing the main page layout of the project:
+
+![Main Page Screenshot](https://raw.githubusercontent.com/Trikisalem/anterlab-nextjs-test/da396cbe095105b2faa94f1b5f03b29401088315/1.png)
+## 📸 Screenshot
+
+Here is a screenshot showing the main page layout of the project:
+
+![Main Page Screenshot](https://raw.githubusercontent.com/Trikisalem/anterlab-nextjs-test/da396cbe095105b2faa94f1b5f03b29401088315/2.png)
 
